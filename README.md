@@ -6,3 +6,6 @@ Branch 1 edit Blah
 Branch 1 edit Blah
 Branch 1 edit Blah
 d
+EDit
+edit
+edit
